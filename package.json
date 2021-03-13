@@ -12,7 +12,7 @@
   "dependencies": {
     "commander": "2.9.x",
     "marked": "0.3.x",
-    "minimize": "1.8.x",
+    "minimize": "2.1.0",
     "nunjucks": "1.3.x",
     "nunjucks-markdown": "1.0.x",
     "q": "1.4.x",
